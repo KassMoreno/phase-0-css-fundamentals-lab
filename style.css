@@ -1,5 +1,15 @@
-body {
+body{
   width: 100%;
-  height: 100%;
-  margin: 0;
-}
+  height: 100%;}
+header{
+  text-align: center;}
+#featured-property{
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+  width: fit-content;}
+#details{
+  text-align: center;
+  column-count: 4;
+  width: 100%;
+  background: rgb(144, 124, 44);}
